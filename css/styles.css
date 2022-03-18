@@ -22,14 +22,16 @@ body {
 
 .resume-header {
     background-color: #227C75;
+	font-family: 'Indie Flower', cursive;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #049085;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #4F9A6C;
+	color: white
 }
 
 /* Styles for lists in the document */
